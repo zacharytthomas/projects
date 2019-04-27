@@ -1,2 +1,2 @@
 # projects
-Personal projects and the more difficult projects from school.
+Personal Projects and projects from School
