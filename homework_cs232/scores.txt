@@ -1,0 +1,27 @@
+HW1 -> 100/100
+1. Create c9 account and share: 20/20
+2. Create bitbucket repo and share: 20/20
+3. Push code to repo: 20/20
+4. program can be compiled: 20/20
+5. program can be run correctly: 20/20
+
+HW2 -> 100
+
+HW3 -> 100
+
+HW4 -> 134/120
+1. 2 explosions recorded -> -6 pts
+
+Project 1-> 191/200
+1. Valgrind shows 4 errors
+2. Indentation on printAddresses() and insertBack()
+
+Extra credit -> 2/2
+
+Project 2-> 400/400
+
+Project 3 Part 1 -> 160/200
+    1. Difference between expected results and
+	actual results for indexing (please run ./test_all and look at the difference) (-20)
+	2. Segmentation fault on running test_all (-10)
+	3. Errors in valgrind (-10)

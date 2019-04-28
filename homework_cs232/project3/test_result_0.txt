@@ -1,0 +1,282 @@
+Indexing...
+http://users.pfw.edu/chenz/testWeb/page_000017.html
+	b
+	page
+	b
+	link
+	to
+	page
+	b
+	sports
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	with
+	some
+	numbers
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	sports
+	sports
+	with
+	some
+	numbers
+	sport
+	sports
+	with
+	some
+	numbers
+	with
+	some
+	numbers
+	sports
+	with
+	some
+	numbers
+	with
+	some
+	numbers
+	with
+	some
+	numbers
+	sports
+	sports
+	with
+	some
+	numbers
+	with
+	some
+	numbers
+	sports
+http://users.pfw.edu/chenz/testWeb/page_000028.html
+	b
+	page
+	b
+	sports
+	b
+	link
+	to
+	page
+	b
+	highlights
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	highlights
+	highlights
+	with
+	some
+	numbers
+	sports
+	computer
+	highlights
+http://users.pfw.edu/chenz/testWeb/page_000001.html
+	b
+	page
+	b
+	news
+	other
+	sport
+	b
+	link
+	to
+	page
+	b
+	sport
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	other
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	other
+	sport
+	with
+	punctuation
+http://users.pfw.edu/chenz/testWeb/page_000015.html
+	b
+	page
+	b
+	with
+	some
+	numbers
+	b
+	link
+	to
+	page
+	b
+	another
+	b
+	link
+	to
+	page
+	b
+	with
+	some
+	numbers
+	other
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	sport
+	other
+	other
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+http://users.pfw.edu/chenz/testWeb/page_000004.html
+	b
+	page
+	b
+	news
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	something
+	b
+	link
+	to
+	page
+	b
+	scores
+	b
+	link
+	to
+	page
+	b
+	something
+	with
+	some
+	numbers
+	b
+	link
+	to
+	page
+Enter a web query: Query is "sport".
+IDF scores are
+IDF(sport): 0.1823
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000017.html (score: 0.002498)
+
+Enter a web query: Query is "sports".
+IDF scores are
+IDF(sports): 0.6931
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000017.html (score: 0.075961)
+
+Enter a web query: Query is "computer science".
+IDF scores are
+IDF(computer): 1.0986
+IDF(science): 1.7918
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000028.html (score: 0.040689)
+
+Enter a web query: Query is "science computer".
+IDF scores are
+IDF(science): 1.7918
+IDF(computer): 1.0986
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000028.html (score: 0.040689)
+
+Enter a web query: Query is "pfw with".
+IDF scores are
+IDF(pfw): 1.7918
+IDF(with): 0.0000
+Web pages:
+
+Enter a web query: Query is "highlights some".
+IDF scores are
+IDF(highlights): 1.0986
+IDF(some): 0.1823
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000017.html (score: 0.022478)
+
+Enter a web query: Query is "pfw news other science".
+IDF scores are
+IDF(pfw): 1.7918
+IDF(news): 0.6931
+IDF(other): 0.6931
+IDF(science): 1.7918
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000001.html (score: 0.064479)
+
+Enter a web query: Query is "another".
+IDF scores are
+IDF(another): 1.0986
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000015.html (score: 0.024414)
+
+Enter a web query: Exiting the program

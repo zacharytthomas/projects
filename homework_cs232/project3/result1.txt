@@ -1,0 +1,132 @@
+Indexing...
+http://users.pfw.edu/chenz/testWeb/page_000014.html
+	b
+	page
+	b
+	sport
+	b
+	link
+	to
+	page
+	b
+	sports
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	computers
+	b
+	link
+	to
+	page
+	b
+	computer
+	b
+	link
+	to
+	page
+	b
+	sports
+	sports
+	computer
+http://users.pfw.edu/chenz/testWeb/page_000020.html
+	b
+	page
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	science
+	scores
+	other
+	b
+	link
+	to
+	page
+	b
+	link
+	to
+	page
+	b
+	sports
+	another
+	another
+http://users.pfw.edu/chenz/testWeb/page_000007.html
+	b
+	page
+	b
+	sports
+	scores
+	sports
+	sport
+	another
+	another
+	another
+	computers
+Enter a web query: Query is "computer science".
+IDF scores are
+IDF(computer): 0.2877
+IDF(science): 0.6931
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000014.html (score: 0.012508)
+
+Enter a web query: Query is "science computer".
+IDF scores are
+IDF(science): 0.6931
+IDF(computer): 0.2877
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000014.html (score: 0.012508)
+
+Enter a web query: Query is "pfw computer science".
+IDF scores are
+IDF(pfw): 1.3863
+IDF(computer): 0.2877
+IDF(science): 0.6931
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000014.html (score: 0.012508)
+
+Enter a web query: Query is "sports scores".
+IDF scores are
+IDF(sports): 0.0000
+IDF(scores): 0.2877
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000020.html (score: 0.011065)
+
+Enter a web query: Query is "no capitalS".
+IDF scores are
+IDF(no): 1.3863
+IDF(capitalS): 1.3863
+Web pages:
+
+Enter a web query: Please enter a query containing only lower-case letters.
+Enter a web query: Please enter a query containing only lower-case letters.
+Enter a web query: Query is "link page".
+IDF scores are
+IDF(link): 0.2877
+IDF(page): 0.0000
+Web pages:
+1. http://users.pfw.edu/chenz/testWeb/page_000014.html (score: 0.050032)
+
+Enter a web query: Exiting the program

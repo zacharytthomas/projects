@@ -1,0 +1,12 @@
+Spencer:
+    addWordOccurrence
+    freeTrieMemory
+    isAlpha
+    main
+Zachary:
+    indexPage
+    printTrieContents
+
+Total hours contributed by the group: 34
+    Spencer Hours: 17
+    Zachary Hours: 17
